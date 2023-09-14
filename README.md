@@ -31,9 +31,9 @@
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA/stargazers
 
 
 <!-- Issues -->
