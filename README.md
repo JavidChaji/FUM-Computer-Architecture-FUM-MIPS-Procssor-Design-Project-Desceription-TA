@@ -24,9 +24,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.com
+Javid Chaji - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.com
 
-Project Link: [https://github.com/JavidChaji/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA](https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
