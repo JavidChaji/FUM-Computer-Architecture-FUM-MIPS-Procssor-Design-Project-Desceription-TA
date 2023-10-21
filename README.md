@@ -161,7 +161,7 @@ Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-
 
 
 [Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[Gmail-url]: javid.chaji@gmail.com
+[Gmail-url]: mailto:javid.chaji@gmail.com
 
 
 [X-shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
