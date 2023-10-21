@@ -48,7 +48,8 @@
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
-List of major frameworks/libraries used to bootstrap this project.
+
+Technologies and Tools Utilized in this Project
 
 * [![LaTeX][LaTeX.org]][LaTeX-url]
 
@@ -156,5 +157,5 @@ Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-
 
 
 
-[LaTeX.org]: https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=LaTeX&logoColor=white
+[LaTeX.org]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
 [LaTeX-url]: https://www.latex-project.org/
