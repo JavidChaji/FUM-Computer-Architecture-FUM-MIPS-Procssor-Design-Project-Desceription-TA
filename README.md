@@ -94,7 +94,7 @@ Javid Chaji
 
 [![X][X-shield]][X-url] 
 
-javid.chaji@gmail.com
+[![Gmail][Gmail-shield]][Gmail-url]
 
 Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA](https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA)
 
@@ -159,6 +159,9 @@ Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
+
+[Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Gmail-url]: javid.chaji@gmail.com
 
 [X-shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 [X-url]: https://twitter.com/JavidChaji
