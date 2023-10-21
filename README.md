@@ -90,7 +90,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Javid Chaji [![X][X-shield]][X-url] javid.chaji@gmail.com
+Javid Chaji 
+
+[![X][X-shield]][X-url] 
+
+javid.chaji@gmail.com
 
 Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA](https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA)
 
