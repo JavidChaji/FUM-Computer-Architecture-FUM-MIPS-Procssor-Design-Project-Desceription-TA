@@ -163,8 +163,14 @@ Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-
 [Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [Gmail-url]: javid.chaji@gmail.com
 
+
 [X-shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 [X-url]: https://twitter.com/JavidChaji
 
+
 [LaTeX.org]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
 [LaTeX-url]: https://www.latex-project.org/
+
+
+[YouTube-Shield]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[YouTube-Url]: https://www.youtube.com/@javidchaji
