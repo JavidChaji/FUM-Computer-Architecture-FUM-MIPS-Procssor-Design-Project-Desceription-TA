@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Javid Chaji - [@JavidChaji](https://twitter.com/JavidChaji) - javid.chaji@gmail.com
+Javid Chaji - [![X][X-shield]][X-url] - javid.chaji@gmail.com
 
 Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA](https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA)
 
@@ -156,7 +156,8 @@ Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-
+[X-shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+[X-url]: https://twitter.com/JavidChaji
 
 [LaTeX.org]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
 [LaTeX-url]: https://www.latex-project.org/
