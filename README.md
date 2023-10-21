@@ -12,8 +12,9 @@
 [![LinkedIn][linkedin-shield]][javid-linkedin-url]
 
 
-# Ferdowsi University of Mashhad Computer Architecture Project Description Teaching Assistant
+# Computer Architecture Project Description
 
+Ferdowsi University of Mashhad Computer Architecture Project Description Teaching Assistant
 
 
 <!-- TABLE OF CONTENTS -->
