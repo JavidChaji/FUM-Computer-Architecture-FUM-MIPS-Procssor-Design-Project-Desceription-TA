@@ -9,7 +9,7 @@
 
 
 
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][linkedin-shield]][javid-linkedin-URL]
 
 
 # Computer Architecture Project Description
@@ -52,7 +52,7 @@ Ferdowsi University of Mashhad Computer Architecture Project Description Teachin
 
 Technologies and Tools Utilized in this Project
 
-* [![LaTeX][LaTeX.org]][LaTeX-url]
+* [![LaTeX][LaTeX-Shield]][LaTeX-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,9 +92,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Javid Chaji 
 
-[![X][X-shield]][X-url] 
+[![X][X-Shield]][X-URL] 
 
-[![Gmail][Gmail-shield]][Gmail-url]
+[![Gmail][Gmail-Shield]][Gmail-URL]
 
 Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA](https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-Procssor-Design-Project-Desceription-TA)
 
@@ -157,20 +157,20 @@ Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-
 <!-- Linkedin -->
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[javid-linkedin-URL]: https://linkedin.com/in/javidchaji
 
 
-[Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[Gmail-url]: mailto:javid.chaji@gmail.com
+[Gmail-Shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Gmail-URL]: mailto:javid.chaji@gmail.com
 
 
-[X-shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
-[X-url]: https://twitter.com/JavidChaji
+[X-Shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+[X-URL]: https://twitter.com/JavidChaji
 
 
-[LaTeX.org]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
-[LaTeX-url]: https://www.latex-project.org/
+[LaTeX-Shield]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
+[LaTeX-URL]: https://www.latex-project.org/
 
 
 [YouTube-Shield]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-[YouTube-Url]: https://www.youtube.com/@javidchaji
+[YouTube-URL]: https://www.youtube.com/@javidchaji
