@@ -1,20 +1,17 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
 
-
-
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
-
 
 # Computer Architecture Project Description
 
 Ferdowsi University of Mashhad Computer Architecture Project Description Teaching Assistant
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -45,7 +42,7 @@ Ferdowsi University of Mashhad Computer Architecture Project Description Teachin
 
 
 
-
+<!-- Built With -->
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
@@ -55,8 +52,6 @@ Technologies and Tools Utilized in this Project
 * [![LaTeX][LaTeX-Shield]][LaTeX-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
@@ -78,14 +73,14 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 <!-- CONTACT -->
 ## Contact
@@ -117,7 +112,6 @@ Project Link: [https://github.com/JavidChaji/FUM-Computer-Architecture-FUM-MIPS-
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
